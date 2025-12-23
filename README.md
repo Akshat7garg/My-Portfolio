@@ -1,3 +1,3 @@
 # Akshat Garg
 
-Portfolio deployment will be done on or before December 23rd, 2025
+Portfolio deployment will be done on December 25th, 2025 (Evening).
