@@ -1,9 +1,12 @@
-import Image from "next/image";
+import React from 'react'
 
-export default function Home() {
+function page() {
   return (
-    <div className="flex w-full p-4 min-h-screen items-center justify-center text-2xl bg-zinc-50 font-sans dark:bg-black">
-      Under Maintainance! Portfolio live will be done on or before December 26th, 2025 (Evening).
+    <div className="flex flex-col gap-2 w-full p-4 min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
+      <p className='font-black text-3xl'>Under Maintenance 🚧</p>
+      <p className='text-2xl'>A revamped portfolio launches on or before January 1, 2026.</p>
     </div>
-  );
+  )
 }
+
+export default page

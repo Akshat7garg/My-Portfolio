@@ -1,3 +1,5 @@
 # Akshat Garg
 
-Portfolio live will be done on or before December 26th, 2025 (Evening).
+### Under Maintenance 🚧
+
+A revamped portfolio launches on or before **January 1, 2026**.
