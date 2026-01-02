@@ -2,4 +2,4 @@
 
 ### Under Maintenance 🚧
 
-A revamped portfolio launches on or before **January 4, 2026**.
+A revamped portfolio launches on or before **January 6, 2026**.
