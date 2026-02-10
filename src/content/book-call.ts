@@ -1,4 +1,4 @@
-import { appConfig } from "@/config/env"
+import { appConfig } from "@/config/config"
 
 export const bookCallCTA = {
     title: "Looks like you’re interested — let’s connect.",

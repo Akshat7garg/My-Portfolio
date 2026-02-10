@@ -23,57 +23,46 @@ export const aboutSkills = {
     list: [
         {
             icon: NextJs,
-            href: "https://nextjs.org/",
             label: "Next.js"
         },
         {
             icon: ReactJs,
-            href: "https://react.dev/",
             label: "React.js"
         },
         {
             icon: NodeJs,
-            href: "https://nodejs.org/en",
             label: "Node.js"
         },
         {
             icon: Express,
-            href: "http://expressjs.com/",
             label: "Express.js"
         },
         {
             icon: TypeScript,
-            href: "https://www.typescriptlang.org/",
             label: "TypeScript"
         },
         {
             icon: JavaScript,
-            href: "https://www.w3schools.com/js/",
             label: "JavaScript"
         },
         {
             icon: CSharp,
-            href: "https://www.w3schools.com/cs/index.php",
             label: "C#"
         },
         {
             icon: Prisma,
-            href: "https://www.prisma.io/",
             label: "Prisma"
         },
         {
             icon: PostgreSQL,
-            href: "https://www.postgresql.org/",
             label: "PostreSQL"
         },
         {
             icon: MongoDB,
-            href: "https://www.mongodb.com/",
             label: "MongoDB"
         },
         {
             icon: Docker,
-            href: "https://www.docker.com/",
             label: "Docker"
         }
     ]

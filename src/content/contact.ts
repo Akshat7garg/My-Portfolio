@@ -1,5 +1,5 @@
 import { Message, Send } from "@/components/svgs/vectors"
-import { appConfig } from "@/config/env"
+import { appConfig } from "@/config/config"
 
 export const emailConfig = {
     modal: {
